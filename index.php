@@ -12,7 +12,7 @@
     <tbody>
       <tr>
         <th scope="row">1</th>
-        <td>Iphone</td>
+        <td>Iphone xr</td>
         <td>R$ 9.000,00</td>
         <td>
           <a href="atualizar.php" class="btn btn-warning btn-sm">Atualizar</a>
